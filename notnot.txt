@@ -1,0 +1,10 @@
+Önce git repomuzda GitClone diye yeni bir repo oluşturduk.
+Sonra masaüstüne Projects diye bir klasör açtık
+Klasörün adres çubuğuna cmd yazıp komut yöneticisini açtık
+git clone https://github.com/ErsenBasaran/GitClone.git   yazıp git repomuzu klasöre kopyaladık
+sonra cd GitClone yazdı hoca ama not alırken kaçırdım ne işe yarıyor
+
+git status yazıp duruma bakabiliriz.
+
+Önce git add . ve ardından git commit –m”v1” yazıp commit oluşturuyoruz.
+Sonra git push yazıp değişikliği repomuza gönderiyoruz
