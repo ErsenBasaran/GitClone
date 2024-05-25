@@ -13,4 +13,12 @@ ilk 10 satırı masaüstünde lokalde yaptık.
 şimdi burada githubda düzenliyorum.
 düzenledikten sonra Projects klasöründen cmd açıp git pull diyerek
 buradaki güncellemeleri lokalime çekebilirim
+--------------
+üçüncü bir adım olarak bir başka kişinin reposunu projects dosyasına çektik.
+bunun için önce o kişinin reposuna gidip code'a bastık
+ardından urlyi kopyaladık.
+sonra Projects klasörüne gelip cmd açtık
+git clone ve kopyaladığımız linki yazdık.
+GitHubB254 klasörü böyle indi
+
 
