@@ -8,6 +8,8 @@ git status yazıp duruma bakabiliriz.
 
 Önce git add . ve ardından git commit –m”v1” yazıp commit oluşturuyoruz.
 Sonra git push yazıp değişikliği repomuza gönderiyoruz
+bir daha pushlamak için git add. ve git commit -m"v?" yazmadan
+tek seferde git commit -am"v?" yazıp ardından pushlayabiliriz
 -------------------------
 ilk 10 satırı masaüstünde lokalde yaptık. 
 şimdi burada githubda düzenliyorum.
