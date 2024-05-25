@@ -8,3 +8,9 @@ git status yazıp duruma bakabiliriz.
 
 Önce git add . ve ardından git commit –m”v1” yazıp commit oluşturuyoruz.
 Sonra git push yazıp değişikliği repomuza gönderiyoruz
+-------------------------
+ilk 10 satırı masaüstünde lokalde yaptık. 
+şimdi burada githubda düzenliyorum.
+düzenledikten sonra Projects klasöründen cmd açıp git pull diyerek
+buradaki güncellemeleri lokalime çekebilirim
+
